@@ -1,1 +1,1 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=melting_app)](https://solved.ac/melting_app/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=app6460)](https://solved.ac/app6460/)
